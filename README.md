@@ -57,6 +57,26 @@ The notebooks cover:
 - Visualizing patterns and trends
 - Communicating insights through visualizations
 
+## 🎯 Learning Objectives
+
+Through this project, I developed practical knowledge of:
+
+- Python programming for data analysis
+- Working with structured datasets
+- Data cleaning and preprocessing
+- Pandas data manipulation
+- Data exploration and analysis
+- Data visualization
+- Using Jupyter Notebooks for data-driven projects
+
+## 📈 Future Improvements
+
+- Add more real-world datasets
+- Perform advanced Exploratory Data Analysis (EDA)
+- Add statistical analysis
+- Include more advanced data visualizations
+- Develop complete end-to-end data analysis projects
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
